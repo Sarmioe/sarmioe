@@ -16,5 +16,9 @@
 
 # Mefo:
 
-> Helo tu 
+> Helo tu vestido Mì Github
+>
+> Aɔ kkadikas aisonos srrilo alos kisani Idisados
+>
+> Tiè ka roar aɔ al pɔjkt tikkhs al evo GPLv3.
 
