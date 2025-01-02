@@ -22,3 +22,9 @@
 >
 > Tiè ka roar aɔ al pɔjkt tikkhs al evo GPLv3.
 
+# 中文简体
+>欢迎来到我的Github
+>
+>我支持自由软件和自由硬件
+>
+>你可以看到我的所有项目都是GPLV3协议
