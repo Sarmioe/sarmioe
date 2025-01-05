@@ -28,3 +28,5 @@
 >我支持自由软件和自由硬件
 >
 >你可以看到我的所有项目都是GPLV3协议
+
+copyleft 2025 sarmioe Some rights reserved
