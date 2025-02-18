@@ -1,32 +1,17 @@
-# English:
+## 啊？还有人注意我吗？
 
-> Welcome to my GitHub.
+>那就随你好了，我给你介绍一下我自己
 >
-> I support free software and free hardware
+>我希望我来自马国（不是马来西亚），我只说我喜欢什么和理想
 >
-> You can see that all my projects are under GPLv3 license
+>我喜欢自由、开源，我也想做一个支持开源的公司，就叫Mo LLC.
+>
+>从上一句你也该知道我的项目了，都是加密协议啊、开发辅助工具、硬件之类的
+>
+>当然，我也有缺点，比如，几乎我见到的任何东西都盼着是开源软件
+>
+>也会有很多不切实际的想法，比如，建立一个新的操作系统、能在AMD和Adreno显卡运行的大语言模型、晶圆厂...
+>
+>总之，自由软件万岁！
 
-# Español:
-
-> Bienvenido a mi Github
->
-> Apoyo software libre y hardware libre
->
-> Puedes ver que todos mis proyectos tienen licencia GPLv3.
-
-# Mefo:
-
-> Helo tu vestido Mì Github
->
-> Aɔ kkadikas aisonos srrilo alos kisani Idisados
->
-> Tiè ka roar aɔ al pɔjkt tikkhs al evo GPLv3.
-
-# 中文简体
->欢迎来到我的Github
->
->我支持自由软件和自由硬件
->
->你可以看到我的所有项目都是GPLV3协议
-
-copyleft 2025 sarmioe Some rights reserved
+Copyleft 2025 Sarmioe Some Rights resived.
