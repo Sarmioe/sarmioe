@@ -15,3 +15,13 @@
 >总之，自由软件万岁！
 
 Copyleft 2025 Sarmioe Some Rights resived.
+
+## Mefo no-cabar velzion
+
+>Helo , aɔ walto intelducir aɔ-zelv.
+>
+>Aɔ en MASQUEST , yalos aɔ kapito soy los whoa alos walte.
+>
+>Aɔ los asinosos alos ofen sɔse
+>
+>Sova ...
